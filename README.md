@@ -1,4 +1,7 @@
-# BCDB Subscription Tool
+# Modex BCDB Subscription Tool
+
+A simple UI application to upload a Modex BCDB subscription to an existing network, created with [Electron Forge](https://www.electronforge.io/)
+The application is just an UI wrapper over the Modex BCDB REST API. See API specification docs [here](https://bcdb.modex.tech/docs)
 
 ## Install
 
